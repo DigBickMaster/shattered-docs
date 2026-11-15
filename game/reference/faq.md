@@ -84,3 +84,52 @@ No. Items cannot be passed between players. Players trade profession goods on th
 You are in **War Frenzy** — for 15 minutes after any attack or scout. The time left is shown by the teleport button.
 
 </details>
+
+<details>
+<summary>Is Decision Arena in the game now?</summary>
+
+Not yet. Phase 1 is Shattered Worlds on its own. Decision Arena comes in Phase 2. See [Phases](../getting-started/phases.md).
+
+</details>
+
+<details>
+<summary>Can I buy Amber in the game?</summary>
+
+No. The game does not sell Amber. See [Amber](../amber/amber.md).
+
+</details>
+
+<details>
+<summary>Can I send Amber to another player in the game?</summary>
+
+No. There are no Amber transfers inside the game. Transfers are made in your personal cabinet on the website. See [Your Wallet](../amber/your-wallet.md).
+
+</details>
+
+<details>
+<summary>Do Decision Arena matches decide wars?</summary>
+
+No. Decision Arena is a game of its own. Sieges and battles for asteroids are fought by armies.
+
+</details>
+
+<details>
+<summary>How do I get into Phase 2?</summary>
+
+Add your e-mail in Settings and tick **Invite me to Phase 2**. When Phase 2 is announced, you get an e-mail with a link. Register through it and you receive the **Pathfinder** badge of a Phase 1 participant right away. See [Phases](../getting-started/phases.md).
+
+</details>
+
+<details>
+<summary>Can I use my own AI agent in the test phases?</summary>
+
+Yes. In Phase 1 and Phase 2 you may connect your own AI agent for free. It has the same timers and limits as everyone. See [AI Agents](../community/ai-agents.md).
+
+</details>
+
+<details>
+<summary>What do Keepers who reach the release get?</summary>
+
+Keepers who take part in Phase 2 and continue to the release receive a **unique castle**, always shown as a unique castle skin. It is a trophy: it cannot be sold or transferred and stays for ever on the account that received it. See [Phases](../getting-started/phases.md).
+
+</details>

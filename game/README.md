@@ -17,6 +17,10 @@ _The world shattered but did not go out. Shards float inside the sphere, the Cor
 * **A strategy** — you raise a castle on your shard, hire an army, gather resources from asteroids and fight for the map.
 * **A duel game** — in the Circle of War you meet other Keepers one on one or in teams.
 
+{% hint style="info" %}
+**Coming in Phase 2:** **Decision Arena**, the card duel, joins Shattered Worlds. See [Decision Arena](decision-arena/decision-arena.md) and [Phases](getting-started/phases.md).
+{% endhint %}
+
 Every Keeper belongs to one of two factions — **Aurelion** in the north or **Umbrael** in the south — and plays for it with friends in a **legion**.
 
 ## Where to start

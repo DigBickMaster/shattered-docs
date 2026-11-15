@@ -15,7 +15,7 @@ icon: gear
 ## Your account
 
 * **Password.** Choose a strong one — the meter shows how strong it is. Changing the password ends **every other session** of your account; only the current one stays.
-* **E-mail.** For password recovery. Other players never see it. An empty field removes the e-mail.
+* **E-mail.** For password recovery and for the **Phase 2 invitation** — tick **Invite me to Phase 2**. From Phase 2 your **wallet** is bound to your e-mail at hero level 15. Other players never see your e-mail. An empty field removes the e-mail. See [Phases](../getting-started/phases.md).
 * **Bio.** Up to **200 characters**, without links. It is shown on your public Keeper page.
 
 ## Your name

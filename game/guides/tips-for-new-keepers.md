@@ -17,3 +17,4 @@ icon: lightbulb
 10. **Think before you attack.** Your first attack or scout on another player ends your newbie shield for ever and starts War Frenzy.
 11. **Choose for ever, carefully.** Subclass at 5, element and profession at 15 — read the cards first.
 12. **Use speed-ups on the long timers.** A 5-minute speed-up matters little on a 1-minute build and a lot on the last minutes of a long one.
+13. **Tick "Invite me to Phase 2".** Add your e-mail in Settings to be invited when Decision Arena joins the world — and to get the Pathfinder badge, the badge of a Phase 1 participant.

@@ -13,6 +13,7 @@
 * [Your First Hour](getting-started/your-first-hour.md)
 * [The Interface](getting-started/the-interface.md)
 * [Newbie Shield and War Frenzy](getting-started/newbie-shield-and-war-frenzy.md)
+* [Phases](getting-started/phases.md)
 
 ## Your Hero
 
@@ -53,6 +54,12 @@
 * [How a Battle Works](circle-of-war/how-a-battle-works.md)
 * [Battle Rewards](circle-of-war/battle-rewards.md)
 
+## Decision Arena
+
+* [Decision Arena](decision-arena/decision-arena.md)
+* [How a Decision Arena Match Works](decision-arena/how-a-match-works.md)
+* [Amber Matches and Tournaments](decision-arena/amber-matches-and-tournaments.md)
+
 ## Dungeons
 
 * [Dungeons](dungeons/dungeons.md)
@@ -85,11 +92,19 @@
 * [Seals and Resources](economy/seals-and-resources.md)
 * [The Shop and the Market](economy/the-shop-and-the-market.md)
 * [Professions](economy/professions.md)
+* [Subscriptions](economy/subscriptions.md)
+
+## Amber
+
+* [Amber](amber/amber.md)
+* [Your Wallet](amber/your-wallet.md)
+* [Gnomes](amber/gnomes.md)
 
 ## Community
 
 * [Chat, Mail and Your Page](community/chat-mail-and-your-page.md)
 * [Settings and Account](community/settings-and-account.md)
+* [AI Agents](community/ai-agents.md)
 
 ## Guides
 

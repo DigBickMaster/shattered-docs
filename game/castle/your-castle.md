@@ -14,6 +14,7 @@ Press **H** to enter the castle and again to return to the map.
 * The **Main Castle** is the heart of your domain. Its level — from **1 to 25** — opens new buildings and sciences.
 * Every other building has its own levels. A building can never be higher than the Castle.
 * The castle **builds one thing at a time** — any building. While the build queue is busy, wait or use a speed-up.
+  At release, a second construction slot will be offered as a separate purchase — see [Subscriptions](../economy/subscriptions.md).
 * Higher Castle levels also need the **University** and the **Wall** to keep up. The building card shows what is missing.
 
 ## Resources

@@ -39,4 +39,4 @@ For the **Guardian** the elements carry their own names: **Core Flame**, **Veil 
 **The element is for ever.** It decides which items and skills suit the hero. Look at the cards carefully before you hold the button.
 {% endhint %}
 
-At level 15 the hero also chooses a **profession** — see [Professions](../economy/professions.md).
+At level 15 the hero also chooses a **profession** — see [Professions](../economy/professions.md). From Phase 2, level 15 also opens [Amber](../amber/amber.md).
