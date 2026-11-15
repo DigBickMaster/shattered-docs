@@ -7,5 +7,6 @@ site:
       key: shattered-worlds
       title: Shattered Worlds
       path: shattered-worlds
+      default: true
       content:
         directory: ./game
