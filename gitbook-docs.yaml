@@ -1,0 +1,11 @@
+# gitbook-docs.yaml — the structure of the Electrum Decisions docs site (site-wide Git Sync)
+$schema: https://api.gitbook.com/openapi.yaml#/components/schemas/GitSyncSiteConfig
+site:
+  title: Electrum Decisions Docs
+  structure:
+    - type: space
+      key: shattered-worlds
+      title: Shattered Worlds
+      path: shattered-worlds
+      content:
+        directory: ./game
