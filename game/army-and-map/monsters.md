@@ -9,11 +9,19 @@ Monsters roam the map between the shards. Beating them gives **loot** and moves 
 
 | Monster | What to know |
 | --- | --- |
-| **Driftbeast** | A creature of the drifting asteroids. The first monsters you meet near your castle. |
-| **Amberwraith** | A wraith drawn to Amber. |
-| **Voidborn Guardian** | Guards the deep places. Falls only to a **group of players**. |
+| **Driftbeast** | The most common creature of the drifting asteroids. The first monsters you meet near your castle. |
+| **Amberwraith** | A wraith drawn to Amber. Its attacks cut through part of your troops' defence. |
+| **Voidborn Guardian** | Guards the deep asteroids, from level 4. Tougher than the others and falls only to a **group of players**. |
 
-Every monster shows its **level** on the map. The deeper towards the Core, the stronger they are.
+## Monster levels
+
+Monsters live on asteroids and share the asteroid's level, **from 1 to 6**. The level decides how big and strong the pack is:
+
+* **Levels 1–3** — small packs near the shards; good for a young army.
+* **Levels 4–5** — big packs deeper down; Voidborn Guardians appear.
+* **Level 6** — the deepest and the strongest, close to the Core.
+
+The deeper towards the Core, the stronger they are — and the better the loot.
 
 ## Attacking a monster
 

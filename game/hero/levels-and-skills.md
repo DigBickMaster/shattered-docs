@@ -36,3 +36,5 @@ Skills come in three kinds:
 * **Passive** — always works, nothing to press.
 
 In one turn you may use **one attack skill and one support skill**. Support skills always go first. Skills cost Mana or Rage and many have a cooldown of a few turns.
+
+The full list for every subclass: [Skills](../skills/README.md).

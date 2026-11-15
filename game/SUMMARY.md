@@ -23,6 +23,30 @@
 * [Gear and Inventory](hero/gear-and-inventory.md)
 * [Injuries and Healing](hero/injuries-and-healing.md)
 
+## Skills
+
+* [Skills](skills/README.md)
+* [Guardian](skills/guardian.md)
+* [Berserker](skills/berserker.md)
+* [Hunter](skills/hunter.md)
+* [Standard Bearer](skills/standard-bearer.md)
+* [Archmage](skills/archmage.md)
+* [Sorcerer](skills/sorcerer.md)
+* [Healer](skills/healer.md)
+* [Enchanter](skills/enchanter.md)
+
+## Gear Catalog
+
+* [Gear Catalog](gear/README.md)
+* [Guardian Gear](gear/guardian.md)
+* [Berserker Gear](gear/berserker.md)
+* [Hunter Gear](gear/hunter.md)
+* [Standard Bearer Gear](gear/standard-bearer.md)
+* [Archmage Gear](gear/archmage.md)
+* [Sorcerer Gear](gear/sorcerer.md)
+* [Healer Gear](gear/healer.md)
+* [Enchanter Gear](gear/enchanter.md)
+
 ## Circle of War
 
 * [The Circle of War](circle-of-war/the-circle-of-war.md)
@@ -65,6 +89,14 @@
 ## Community
 
 * [Chat, Mail and Your Page](community/chat-mail-and-your-page.md)
+* [Settings and Account](community/settings-and-account.md)
+
+## Guides
+
+* [Tips for New Keepers](guides/tips-for-new-keepers.md)
+* [Hero Builds](guides/hero-builds.md)
+* [Growing Your Castle](guides/growing-your-castle.md)
+* [Leading a Legion](guides/leading-a-legion.md)
 
 ## Reference
 

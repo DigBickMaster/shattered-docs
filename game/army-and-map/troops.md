@@ -23,7 +23,19 @@ The first squad from each barracks is a gift — a castle quest pays it when the
 
 * Choose the troop and the amount in the barracks. The troops come out in turn; the whole order has one price and one time.
 * While the hire queue is busy, a new order waits — or use a speed-up.
-* **Tiers.** The University opens higher tiers of every troop: the higher the tier, the stronger and the dearer.
+* **Tiers.** Every troop has **tiers I to V**. Tier I is open from the start; the **University** opens tiers II–V at its levels 5, 10, 15 and 20.
+
+## Troop tiers
+
+| Tier | Opens at | What changes |
+| --- | --- | --- |
+| **I** | from the start | Cheap and fast to hire — the mass of your first army |
+| **II** | University 5 | Much stronger than tier I, still quick to hire |
+| **III** | University 10 | A real step up; starts to need crystal |
+| **IV** | University 15 | Strong and dear |
+| **V** | University 20 | The strongest — and the most expensive goal |
+
+Higher tiers hit harder, take more damage and **carry more loot**, but cost more, take longer to hire and **march slower** — tier V is the slowest. Research the military sciences of the same tier to make them stronger still.
 
 ## The Dock
 

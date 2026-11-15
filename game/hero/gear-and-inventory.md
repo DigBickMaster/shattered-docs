@@ -18,6 +18,8 @@ Weapons depend on the class and subclass:
 A bow or a crossbow needs a **quiver** in the left hand — arrows for a bow, bolts for a crossbow. Take the off-hand item off first.
 {% endhint %}
 
+Every set of every subclass is listed in the [Gear Catalog](../gear/README.md).
+
 ## Requirements
 
 Every item has a **level** and may require some characteristics. An item whose requirements are no longer met — for example because of an injury — gives nothing until you meet them again.

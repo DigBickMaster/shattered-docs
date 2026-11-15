@@ -37,4 +37,6 @@ When your hero reaches level 5, the game reminds you, and the choice opens on th
 **A subclass is for ever.** It decides your skills, your gear and your role in the team.
 {% endhint %}
 
+Every skill of every subclass is in [Skills](../skills/README.md), every set in the [Gear Catalog](../gear/README.md). Suggested builds: [Hero Builds](../guides/hero-builds.md).
+
 Next: at level 15 the hero chooses an **element** — see [Elements and Paths](elements-and-paths.md).
