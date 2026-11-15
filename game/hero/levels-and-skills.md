@@ -21,9 +21,13 @@ A hero goes from **level 1** to **level 25**.
 | **1** | Your first skill — **Magic Arrow** for a mage, **Furious Strike** for a warrior |
 | **5** | Your **subclass** and its first skills · the first battle **pocket** · the double-XP first win of the day · the **Amber Grotto** |
 | **10** | New subclass skills · the **Dark Mines** · from now on you fight duels and group battles instead of the Dummy |
-| **15** | Your **element** and **path** · your **profession** · new skills · gear with **sockets** · three pockets · the **Forgotten Fortress** · your basic strike now also hits the target's neighbours |
+| **15** | Your **element** and **path** · your **profession** · new skills · gear with **sockets** · three pockets · the **Forgotten Fortress** · your basic strike now also hits the target's neighbours · from Phase 2: your **wallet** and everything **Amber** |
 | **20** | The last tier of skills · gear with two sockets |
 | **25** | The highest level |
+
+{% hint style="info" %}
+**Coming in Phase 2:** level 15 also creates your wallet and opens everything Amber, including Amber matches in Decision Arena. See [Amber](../amber/amber.md).
+{% endhint %}
 
 ## Skills
 

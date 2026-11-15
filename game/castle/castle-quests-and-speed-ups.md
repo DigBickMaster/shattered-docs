@@ -26,7 +26,8 @@ Where speed-ups come from:
 * Keeper's Path rewards and castle quests;
 * dungeon chests and bosses;
 * the legion's weekly goal;
-* the shop.
+* the shop;
+* during Phase 1 and Phase 2, the team hands out many speed-ups to everyone so that testing goes fast — see [Phases](../getting-started/phases.md).
 
 {% hint style="info" %}
 Legion help is a free way to take time off constructions and research. See [Legion Help](../legions/legion-help-and-weekly-goal.md).

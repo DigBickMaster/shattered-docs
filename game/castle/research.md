@@ -45,6 +45,7 @@ To research a science of a higher tier, research the same science of the tier be
 * A science of tier N works on the troops of tier N of its kind.
 * A closed tier can still be opened and looked at — you see what to build for.
 * The University researches **one science at a time**.
+  At release, a second research slot will be offered as a separate purchase — see [Subscriptions](../economy/subscriptions.md).
 
 Some sciences matter for the map: for example, gathering on higher-level asteroids needs the science **Deep Gathering**.
 

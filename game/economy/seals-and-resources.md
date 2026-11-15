@@ -13,10 +13,13 @@ Shattered Worlds has a few kinds of wealth, and each has its own job.
 | **Iron, Energy, Crystal** | Everything in the castle: buildings, research, troops, healing; the legion treasury | Gatherers on asteroids, castle quests, raids |
 | **Speed-ups** | Shortening castle timers | Goals, castle quests, dungeons, the legion's weekly goal, the shop |
 | **Raw materials** | Profession crafting | Digging at your castle's storehouses (professions) |
+| **Amber** *(Phase 2)* | Upgrades and speed-ups of your account, Amber matches in Decision Arena | Amber matches, your own wallet — see [Amber](../amber/amber.md) |
 
 ## Seals and the castle are separate
 
 **Seals** belong to the Keeper and are spent on the hero side of the game. **Iron, energy and crystal** belong to the castle. One cannot be turned into the other.
+
+**Amber** is a crypto token in your own wallet, apart from Seals and castle resources. The game does not sell it, and there are no Amber transfers inside the game.
 
 ## Rewards are known in advance
 

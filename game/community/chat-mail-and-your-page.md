@@ -33,7 +33,9 @@ Every Keeper has a **public page**: the hero's level, class and subclass, the wo
 * The bio is up to **200 characters**, without links.
 * Only worn items are shown — not your bag and not your pockets.
 
+Keepers who took part in Phase 1 carry the **Pathfinder** badge on their page and in chat from Phase 2. Keepers who reach the release show their **release castle** skin.
+
 ## Account settings
 
 * **Change the password** — every other session of your account ends.
-* **E-mail** — for password recovery later. Other players never see it.
+* **E-mail** — for password recovery and for the **Phase 2 invitation** (tick **Invite me to Phase 2**). From Phase 2 your wallet is bound to it at hero level 15. Other players never see it. See [Settings and Account](settings-and-account.md).
